@@ -9,6 +9,8 @@ www.pdflibr.com sms-receive open souce.
 
 最近有朋友问我索要代码，本来是不想给的，但是我觉的还是共享出来，因为本项目也使用的是开源技术。
 
+另外一个服务端在这里[SMS_Receive-server-client](https://github.com/sycct/SMS_Receive-server-client)，主要是用来处理这个App上传上来的短信内容，并显示。
+
 “来源于社区，回馈社区”
 
 手机端使用的是上面的开源代码，其余是我自己写的代码。欢迎大家提交。
